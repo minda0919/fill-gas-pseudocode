@@ -10,4 +10,8 @@ Fill car with gas
 	Select gas type
 	WHILE gas tank is NOT full OR price limit is NOT reached
 		Engage gas nozzle
+	Remove gas nozzle from tank
+	Put gas nozzle back into machine
+	Close car's gas tank
+	Enter car
 	
