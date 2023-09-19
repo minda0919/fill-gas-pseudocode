@@ -1,5 +1,13 @@
-#A function to fill your car with gasm assuming you're already parked at the station
+#A function to fill your car with gas assuming you're already parked at the station
 
 Fill car with gas
 	Exit car
 	Open car's gas tank
+	Insert credit or debit card into card reader
+	Select price limit on card reader
+	Take out gas nozzle from machine
+	Insert gas nozzle into car's gas tank
+	Select gas type
+	WHILE gas tank is NOT full OR price limit is NOT reached
+		Engage gas nozzle
+	
