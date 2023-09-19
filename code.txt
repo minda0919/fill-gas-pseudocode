@@ -1,0 +1,5 @@
+#A function to fill your car with gasm assuming you're already parked at the station
+
+Fill car with gas
+	Exit car
+	Open car's gas tank
